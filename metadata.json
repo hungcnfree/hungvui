@@ -1,0 +1,8 @@
+{
+  "name": "Lớp Học Vui - Công Nghệ 8/9",
+  "description": "Ứng dụng gameshow truyền hình giáo dục trắc nghiệm Công nghệ 8/9 cho lớp học THCS, tự động tạo giọng đọc AI, chiếu máy chiếu và tự luyện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
